@@ -6,10 +6,11 @@
 
 <div class="form">
 
-<?php $form=$this->beginWidget('foundation.widgets.FounActiveForm', array(
+<?php //$form=$this->beginWidget('foundation.widgets.FounActiveForm' DOESN'T LOOK AS NICE
+        $form=$this->beginWidget('CActiveForm', array(
 	'id'=>'person-form',
 	'enableAjaxValidation'=>false,
-    'type' => 'custom',
+    //'type' => 'custom',
 )); ?>
 
 	<p class="note">Fields with <span class="required">*</span> are required.</p>
