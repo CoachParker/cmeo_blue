@@ -1,0 +1,16 @@
+[17-Mar-2013 12:02:29] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 38
+[17-Mar-2013 12:02:34] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 38
+[17-Mar-2013 18:03:47] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home2/arithmom/public_html/cmeo/know/protected/controllers/SiteController.php on line 111
+[17-Mar-2013 18:04:12] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home2/arithmom/public_html/cmeo/know/protected/controllers/SiteController.php on line 111
+[27-Mar-2013 18:45:38] PHP Parse error:  syntax error, unexpected ';' in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 49
+[27-Mar-2013 18:46:10] PHP Parse error:  syntax error, unexpected ';' in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 49
+[27-Mar-2013 18:46:21] PHP Parse error:  syntax error, unexpected ';' in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 49
+[27-Mar-2013 18:51:09] PHP Parse error:  syntax error, unexpected ';' in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 49
+[27-Mar-2013 18:54:55] PHP Parse error:  syntax error, unexpected ';' in /home2/arithmom/public_html/cmeo/know/protected/views/person/_form.php on line 49
+[29-Mar-2013 19:35:44] PHP Fatal error:  Call to undefined function with() in /home2/arithmom/public_html/cmeo/know/protected/controllers/SiteController.php on line 114
+[29-Mar-2013 19:58:17] PHP Warning:  Unterminated comment starting line 182 in /home2/arithmom/public_html/cmeo/know/protected/controllers/PersonController.php on line 182
+[29-Mar-2013 19:58:17] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home2/arithmom/public_html/cmeo/know/protected/controllers/PersonController.php on line 182
+[29-Mar-2013 19:58:17] PHP Fatal error:  Class declarations may not be nested in /home2/arithmom/framework/collections/CListIterator.php on line 20
+[29-Mar-2013 20:06:01] PHP Parse error:  syntax error, unexpected T_RETURN in /home2/arithmom/public_html/cmeo/know/protected/controllers/PersonController.php on line 189
+[09-Apr-2013 23:46:26] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home2/arithmom/public_html/cmeo/know/protected/models/Person.php on line 66
+[09-Apr-2013 23:47:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home2/arithmom/public_html/cmeo/know/protected/models/Person.php on line 66
